@@ -1,2 +1,2 @@
 # Caviar
-IDL-to-Python Project Of Team
+IDL-to-Python project Of Team
